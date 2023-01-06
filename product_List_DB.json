@@ -1,0 +1,124 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "brand": "Adidas",
+      "category": "Footwear",
+      "name": "Sports Shoes",
+      "color": "Black & White",
+      "model": "Zixer",
+      "price": 3499,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71TawoxTk6L._UY695_.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "category": "Mobile",
+      "name": "Samsung Galaxy 1TB",
+      "color": "Matt Black",
+      "model": "S22 Ultra",
+      "price": 124999,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71PvHfU+pwL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "boAt",
+      "category": "Speakers",
+      "name": "Bluetooth Speaker ",
+      "color": "Multi-Color Striped",
+      "model": "boAt Stone 190 ",
+      "price": 1499,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71zcrJSdOfL._SL1500_.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "HEALTH FARM",
+      "category": "Dietary Supplement",
+      "name": "WHEY PROTEIN",
+      "color": "White Yellow Container",
+      "model": "ISO PURE ZERO",
+      "price": 5499,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61UV-WeCz+L._SX679_.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "DROGO",
+      "category": "Furniture",
+      "name": "Gaming Chair",
+      "color": "Black",
+      "model": "HP-45",
+      "price": 7999,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617MMoL1I4L._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "Fire-Boltt",
+      "category": "Watches",
+      "name": "Full Touch Smartwatch",
+      "color": "Black",
+      "model": "Ninja 2 ",
+      "price": 1799,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/617eiZeFtNL._SL1500_.jpg"
+    },
+    {
+      "id": 7,
+      "brand": "WOW Life Science",
+      "category": "Dietary Supplement",
+      "name": "Omega-3 Fish Oil",
+      "color": "Brown",
+      "model": "Triple Strength",
+      "price": 699,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61jBYEPdtjL._SX679_.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "CLARA",
+      "category": "Fashion",
+      "name": "Diamond Ring",
+      "color": "Blue & Silver",
+      "model": "925 Sterling Silver",
+      "price": 18499,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51zhAI3udbL._UL1100_.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "I-Phone",
+      "category": "Mobile",
+      "name": "I-Phone 14 ",
+      "color": "Deep Purple",
+      "model": "PRO MAX",
+      "price": 120499,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71yzJoE7WlL._SX679_.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Perfect Artz",
+      "category": "Fashion",
+      "name": "Necklace",
+      "color": "Gold & Green",
+      "model": "F-2445",
+      "price": 1249,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/91aI99bpMAL._UY625_.jpg"
+    },
+    {
+      "id": 11,
+      "brand": "Acer",
+      "category": "Laptop",
+      "name": "Acer Gaming Laptop",
+      "color": "Black",
+      "model": "Nitro 5 ( 8GB / 512-SSD ) ",
+      "price": 70250,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/61AmLbb0n0L._SX569_.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "SoleThreads",
+      "category": "Footwear",
+      "name": "FilpFlops",
+      "color": "Brown & Orange",
+      "model": "SKYCRUISER",
+      "price": 999,
+      "photo": "https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/71xMIi+g+mL._UY625_.jpg"
+    }
+  ]
+}
